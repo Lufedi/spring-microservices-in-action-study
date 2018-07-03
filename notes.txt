@@ -1,0 +1,14 @@
+
+spring cloud server: Ayuda a configurar las propiedades de los  microservicios en una base, puede ser en archivos, git u otros.
+
+spring accurator: Ayuda a conocer el estado de los servicios, se puede acceder con localhost/env
+localhost/health
+
+
+/refresh: si las propiedades de una base de configuracion cambia se puede invocar refresh sobre los microservicios que la usan para refrezcar las propiedades que estan usando. Se puede integrar con RabbitMQ para hacer un push a todos los servicios que han consumido la consiguraci'on base o se puede usar el desrvice discovery igualmente con un script. Esto puede ser accedido si y solo si el tag @RefreshScope est'a activo en la aplicacion de Spring Boot
+
+381079649
+
+
+
+
