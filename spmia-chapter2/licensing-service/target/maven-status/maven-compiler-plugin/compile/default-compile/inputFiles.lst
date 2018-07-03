@@ -1,6 +1,8 @@
 /home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/Application.java
 /home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/services/OrganizationService.java
 /home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/controllers/LicenseServiceController.java
+/home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/config/ServiceConfig.java
 /home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/services/LicenseService.java
+/home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/repository/LicenseRepository.java
 /home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/model/Organization.java
 /home/pipe/Documents/Pipe/study/Spring/spring-microservices-in-action-study/spmia-chapter2/licensing-service/src/main/java/com/thoughtmechanix/licenses/model/License.java
