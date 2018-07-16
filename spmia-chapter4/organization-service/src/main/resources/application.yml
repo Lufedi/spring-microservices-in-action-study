@@ -1,5 +1,11 @@
-spring.h2.console.enabled: true
-spring.h2.console.path: /h2-console
+
+spring.jpa.show-sql: true
+spring.h2.enable.console: true
+
+
+
+
+
 eureka:
   instance:
     preferIpAddress: true
